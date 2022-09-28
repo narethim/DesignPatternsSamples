@@ -2,6 +2,10 @@
 
 Command Design Pattern Examples
 
+## Class Diagrams
+
+![ClassDiagram](images/ClassDiagram.png)
+
 ## References
 
 * [Command in C++: before and after](https://sourcemaking.com/design_patterns/command/cpp/1)
